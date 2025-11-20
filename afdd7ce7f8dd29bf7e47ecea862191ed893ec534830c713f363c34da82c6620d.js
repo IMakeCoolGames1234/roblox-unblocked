@@ -1,0 +1,4 @@
+var Roblox = Roblox || {};
+Roblox.LangDynamic = Roblox.LangDynamic || {};
+Roblox.LangDynamic["Feature.VerifiedParentalControls"] = {"Action.GoToSettings":"Go to Settings","Label.AskParent":"Ask Your Parent","Description.SpendingRestrictionWithSettings":"Due to regional restrictions, you need parent permission to make a purchase. Ask your parent for permission in Settings > Spending.","Description.SpendingRestrictionWIthoutSettings":"Due to regional restrictions, you need parent permission to make a purchase. Please visit the web or a companion device to ask your parent for permission in Settings > Spending.","Action.Cancel":"Cancel","Action.Close":"Close"};
+window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.VerifiedParentalControls");
